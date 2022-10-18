@@ -1,0 +1,6 @@
+framework module EpsiodeTestKit {
+  umbrella header "EpsiodeTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

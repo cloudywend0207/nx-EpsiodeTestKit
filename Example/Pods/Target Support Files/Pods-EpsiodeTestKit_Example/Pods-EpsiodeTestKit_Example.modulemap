@@ -1,0 +1,6 @@
+framework module Pods_EpsiodeTestKit_Example {
+  umbrella header "Pods-EpsiodeTestKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

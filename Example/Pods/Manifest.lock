@@ -1,0 +1,16 @@
+PODS:
+  - EpsiodeTestKit (0.1.0)
+
+DEPENDENCIES:
+  - EpsiodeTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  EpsiodeTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EpsiodeTestKit: 575a3da587c12ab5a8f8b05f5b2d8232411d988c
+
+PODFILE CHECKSUM: f627d24f0601b473966e5163a7a035d54c141fee
+
+COCOAPODS: 1.11.3

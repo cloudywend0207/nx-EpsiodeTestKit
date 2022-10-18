@@ -1,0 +1,22 @@
+{
+  "name": "EpsiodeTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of EpsiodeTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cloudywend0207/EpsiodeTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cloudywend0207": "cloudywend0207@163.com"
+  },
+  "source": {
+    "git": "https://github.com/cloudywend0207/EpsiodeTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "EpsiodeTestKit/Classes/**/*"
+}
